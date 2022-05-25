@@ -1,0 +1,9 @@
+C:\Users\Alan\Documents\Godot\Projects\LearnGodot\.mono\temp\bin\Debug\LearnGodot.dll
+C:\Users\Alan\Documents\Godot\Projects\LearnGodot\.mono\temp\bin\Debug\LearnGodot.pdb
+C:\Users\Alan\Documents\Godot\Projects\LearnGodot\.mono\temp\obj\Debug\LearnGodot.csproj.AssemblyReference.cache
+C:\Users\Alan\Documents\Godot\Projects\LearnGodot\.mono\temp\obj\Debug\LearnGodot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\Documents\Godot\Projects\LearnGodot\.mono\temp\obj\Debug\LearnGodot.AssemblyInfoInputs.cache
+C:\Users\Alan\Documents\Godot\Projects\LearnGodot\.mono\temp\obj\Debug\LearnGodot.AssemblyInfo.cs
+C:\Users\Alan\Documents\Godot\Projects\LearnGodot\.mono\temp\obj\Debug\LearnGodot.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Documents\Godot\Projects\LearnGodot\.mono\temp\obj\Debug\LearnGodot.dll
+C:\Users\Alan\Documents\Godot\Projects\LearnGodot\.mono\temp\obj\Debug\LearnGodot.pdb

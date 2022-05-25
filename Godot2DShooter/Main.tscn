@@ -1,0 +1,69 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://PlayerMovement.cs" type="Script" id=1]
+[ext_resource path="res://icon.png" type="Texture" id=2]
+
+[sub_resource type="CircleShape2D" id=1]
+radius = 32.0
+
+[sub_resource type="RectangleShape2D" id=2]
+extents = Vector2( 32, 32 )
+
+[node name="Scene" type="Node"]
+
+[node name="Node2D" type="Node2D" parent="."]
+
+[node name="KinematicBody2D" type="KinematicBody2D" parent="Node2D"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/KinematicBody2D"]
+shape = SubResource( 1 )
+
+[node name="Sprite" type="Sprite" parent="Node2D/KinematicBody2D"]
+texture = ExtResource( 2 )
+
+[node name="Camera2D" type="Camera2D" parent="Node2D/KinematicBody2D"]
+current = true
+smoothing_enabled = true
+
+[node name="Movement" type="Node2D" parent="Node2D/KinematicBody2D"]
+script = ExtResource( 1 )
+bodyPath = NodePath("..")
+speed = 100.0
+
+[node name="Walls" type="StaticBody2D" parent="Node2D"]
+position = Vector2( 232, 114.5 )
+scale = Vector2( 5.53125, 1.42188 )
+
+[node name="Sprite" type="Sprite" parent="Node2D/Walls"]
+modulate = Color( 0.364706, 0.364706, 0.364706, 1 )
+texture = ExtResource( 2 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/Walls"]
+shape = SubResource( 2 )
+
+[node name="GUI" type="CanvasLayer" parent="."]
+
+[node name="MarginContainer" type="MarginContainer" parent="GUI"]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -250.0
+margin_top = -22.0
+margin_right = 250.0
+margin_bottom = 22.0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="GUI/MarginContainer"]
+margin_right = 500.0
+margin_bottom = 44.0
+
+[node name="Start" type="Button" parent="GUI/MarginContainer/VBoxContainer"]
+margin_right = 500.0
+margin_bottom = 20.0
+text = "Start"
+
+[node name="Quit" type="Button" parent="GUI/MarginContainer/VBoxContainer"]
+margin_top = 24.0
+margin_right = 500.0
+margin_bottom = 44.0
+text = "Quit"
