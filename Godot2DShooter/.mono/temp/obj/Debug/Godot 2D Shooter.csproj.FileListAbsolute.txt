@@ -1,0 +1,9 @@
+C:\Users\Alan\desktop\open_source\fall2022workshops\Godot2DShooter\.mono\temp\bin\Debug\Godot 2D Shooter.dll
+C:\Users\Alan\desktop\open_source\fall2022workshops\Godot2DShooter\.mono\temp\bin\Debug\Godot 2D Shooter.pdb
+C:\Users\Alan\desktop\open_source\fall2022workshops\Godot2DShooter\.mono\temp\obj\Debug\Godot 2D Shooter.csproj.AssemblyReference.cache
+C:\Users\Alan\desktop\open_source\fall2022workshops\Godot2DShooter\.mono\temp\obj\Debug\Godot 2D Shooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\desktop\open_source\fall2022workshops\Godot2DShooter\.mono\temp\obj\Debug\Godot 2D Shooter.AssemblyInfoInputs.cache
+C:\Users\Alan\desktop\open_source\fall2022workshops\Godot2DShooter\.mono\temp\obj\Debug\Godot 2D Shooter.AssemblyInfo.cs
+C:\Users\Alan\desktop\open_source\fall2022workshops\Godot2DShooter\.mono\temp\obj\Debug\Godot 2D Shooter.csproj.CoreCompileInputs.cache
+C:\Users\Alan\desktop\open_source\fall2022workshops\Godot2DShooter\.mono\temp\obj\Debug\Godot 2D Shooter.dll
+C:\Users\Alan\desktop\open_source\fall2022workshops\Godot2DShooter\.mono\temp\obj\Debug\Godot 2D Shooter.pdb

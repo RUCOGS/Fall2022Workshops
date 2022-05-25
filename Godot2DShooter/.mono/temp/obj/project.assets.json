@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\USERS\\ALAN\\DOCUMENTS\\GODOT\\PROJECTS\\LEARNGODOT\\LearnGodot.csproj",
-      "projectName": "LearnGodot",
-      "projectPath": "C:\\USERS\\ALAN\\DOCUMENTS\\GODOT\\PROJECTS\\LEARNGODOT\\LearnGodot.csproj",
+      "projectUniqueName": "C:\\Users\\Alan\\desktop\\open_source\\fall2022workshops\\Godot2DShooter\\Godot 2D Shooter.csproj",
+      "projectName": "Godot 2D Shooter",
+      "projectPath": "C:\\Users\\Alan\\desktop\\open_source\\fall2022workshops\\Godot2DShooter\\Godot 2D Shooter.csproj",
       "packagesPath": "C:\\Users\\Alan\\.nuget\\packages\\",
-      "outputPath": "C:\\USERS\\ALAN\\DOCUMENTS\\GODOT\\PROJECTS\\LEARNGODOT\\.mono\\temp\\obj\\",
+      "outputPath": "C:\\Users\\Alan\\desktop\\open_source\\fall2022workshops\\Godot2DShooter\\.mono\\temp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

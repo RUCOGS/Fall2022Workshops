@@ -4,3 +4,9 @@ C:\USERS\ALAN\DOCUMENTS\GODOT\PROJECTS\LEARNGODOT\StubProj\obj\Debug\StubProj.cs
 C:\USERS\ALAN\DOCUMENTS\GODOT\PROJECTS\LEARNGODOT\StubProj\obj\Debug\StubProj.csproj.CoreCompileInputs.cache
 C:\USERS\ALAN\DOCUMENTS\GODOT\PROJECTS\LEARNGODOT\StubProj\obj\Debug\StubProj.dll
 C:\USERS\ALAN\DOCUMENTS\GODOT\PROJECTS\LEARNGODOT\StubProj\obj\Debug\StubProj.pdb
+C:\Users\Alan\Desktop\Open_Source\Fall2022Workshops\Godot2DShooter\StubProj\bin\Debug\StubProj.dll
+C:\Users\Alan\Desktop\Open_Source\Fall2022Workshops\Godot2DShooter\StubProj\bin\Debug\StubProj.pdb
+C:\Users\Alan\Desktop\Open_Source\Fall2022Workshops\Godot2DShooter\StubProj\obj\Debug\StubProj.csproj.AssemblyReference.cache
+C:\Users\Alan\Desktop\Open_Source\Fall2022Workshops\Godot2DShooter\StubProj\obj\Debug\StubProj.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\Open_Source\Fall2022Workshops\Godot2DShooter\StubProj\obj\Debug\StubProj.dll
+C:\Users\Alan\Desktop\Open_Source\Fall2022Workshops\Godot2DShooter\StubProj\obj\Debug\StubProj.pdb
